@@ -7,3 +7,4 @@ var queryForTsBranch = "RAJAT";
 
 var abcTest = "Hello Test";
 var newqueryForTsBranch = "INDER";
+var newqueryForTsBranch2 = "INDER2";
