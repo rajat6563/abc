@@ -6,3 +6,4 @@ if (client == '800') {
 var queryForTsBranch = "RAJAT";
 
 var abcTest = "Hello Test";
+var newqueryForTsBranch = "INDER";
