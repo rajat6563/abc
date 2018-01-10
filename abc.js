@@ -4,3 +4,4 @@ if (client == '800') {
 }
 
 var queryForTsBranch = "RAJAT";
+var newqueryForTsBranch = "INDER";
